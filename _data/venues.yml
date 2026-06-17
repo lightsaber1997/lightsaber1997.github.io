@@ -1,9 +1,9 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+# Venue styling for publication badges (the `abbr` field in papers.bib).
+#
+# If a venue has NO `color` key, its badge uses the theme's default style
+# (theme accent background + white text) — the same red/white look as the CV.
+#
+# "Under Review" is intentionally left without a color so it inherits that
+# default theme style. Add a `color:` only if you want to override it.
 
-"PhysRev":
-  url: https://journals.aps.org/
-
-"Vision":
-  color: "#009f36"
+"Under Review":

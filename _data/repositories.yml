@@ -1,14 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - lightsaber1997
 
 repo_description_lines_max: 2
 
+# Add your own repositories here, e.g. lightsaber1997/your-repo
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
