@@ -41,7 +41,7 @@ Hi, I'm **GyuYeop Do**. I am an incoming M.S. student in Computer Science at **G
 
 My research interests lie at the intersection of **computer vision**, **robotics**, and **3D perception**. I am especially interested in building generalist robot systems that can perceive, reason, and act reliably in the real world. My recent work has explored **vision-language-action (VLA) models**, **RGB-only grasp prediction for transparent objects**, **3D reconstruction of dynamic objects**, and **efficient open-vocabulary perception for edge devices**.
 
-More broadly, I am interested in the core questions behind scalable robot learning: how much progress comes from scaling robot data, when architectural design matters, and how VLA-style policies can be extended toward long-horizon planning and dexterous manipulation. During my graduate studies, I hope to explore these questions through both perception-driven and action-centered approaches.
+More broadly, I am interested in the core questions behind scalable robot learning: how much progress comes from scaling robot data, when architectural design matters, and whether VLA-style policies can be extended toward long-horizon planning and dexterous manipulation. During my graduate studies, I hope to explore these questions through both perception-driven and action-centered approaches.
 
 At SNU, I have worked with [Prof. Jaesik Park](https://jaesik.info/) at the Visual & Geometric Intelligence Lab, [Prof. Jonghyun Choi](https://ppolon.github.io/) at the Machine Perception and Reasoning Lab, and Prof. Nam-Joon Kim through the COSS Program. I am currently looking for **research internship opportunities** in computer vision, robotics, and embodied AI.
 
